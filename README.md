@@ -1,4 +1,6 @@
 # hide-privacy-indicator
+<img width="759" height="638" alt="image" src="https://github.com/user-attachments/assets/af8e6277-df53-480b-b70d-8a9731cecf9e" />
+
 ## 概要
 - ステータスバーからプライバシーインジケータのスペースを隠す(無効にする)だけのシンプルなモジュールです。
 ## 詳細
