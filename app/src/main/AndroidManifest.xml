@@ -19,12 +19,12 @@
         <meta-data
             android:name="xposeddescription"
             android:value="A simple module to hide the privacy indicator in Android 12 and above." />
-
         <meta-data
             android:name="xposedminversion"
             android:value="53" />
+        <meta-data
+            android:name="xposedscope"
+            android:resource="@array/xposedscope" />
 
     </application>
-
-
 </manifest>
